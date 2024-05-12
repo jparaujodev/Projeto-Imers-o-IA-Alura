@@ -27,6 +27,7 @@ Cinéfilo: Seu app e guia pessoal no mundo do cinema! 🎥✨
 <d1>Colab "colab.new"</d1>
 <d1>Python "https://www.python.org/downloads/"</d1>
 <d1>Bibliotecas: google.generativeai</d1>
+<d1>Bibliotecas: tkinter </d1>
 
 
 ## Desenvolvedor :octocat:
