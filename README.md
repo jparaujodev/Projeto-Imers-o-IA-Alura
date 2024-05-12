@@ -1,4 +1,4 @@
-<h1>Projetos Python com Dados</h1>
+<h1>Projeto IA Alura</h1>
 
 ## Descrição do projeto 
 
