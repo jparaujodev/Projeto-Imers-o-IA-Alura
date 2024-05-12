@@ -23,7 +23,9 @@ Cinéfilo: Seu guia pessoal no mundo do cinema! 🎥✨
 
 <dl>API gemini do Google "https://aistudio.google.com/app/prompts/new_chat"</dl>
 <dl>Visual Studio Code "https://code.visualstudio.com/download"</dl>
+<d1>Colab "colab.new"</d1>
 <d1>Bibliotecas: google.generativeai</d1>
+
 
 ## Desenvolvedor :octocat:
 João Pedro Araujo
