@@ -21,7 +21,7 @@ Cinéfilo: Seu guia pessoal no mundo do cinema! 🎥✨
 
 ## Pré-requisitos
 
-<dl>API gemini do Google ""</dl>
+<dl>API gemini do Google "https://aistudio.google.com/app/prompts/new_chat"</dl>
 <dl>Visual Studio Code "https://code.visualstudio.com/download"</dl>
 <d1>Bibliotecas: google.generativeai</d1>
 
